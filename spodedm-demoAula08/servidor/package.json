@@ -1,0 +1,8 @@
+{
+  "name": "spodedm-servidor-testes",
+  "version": "1.0.0",
+  "private": true,
+  "main": "servidor.js",
+  "scripts": { "start": "node servidor.js" },
+  "dependencies": { "compression": "^1.8.0", "express": "^4.21.0" }
+}
