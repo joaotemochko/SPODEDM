@@ -1,0 +1,25 @@
+{
+  "name": "app-distribuicao",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "dependencies": {
+    "expo": "~57.0.32",
+    "expo-application": "~57.0.3",
+    "expo-constants": "~57.0.23",
+    "expo-status-bar": "~57.0.1",
+    "expo-updates": "~57.0.27",
+    "react": "19.2.3",
+    "react-native": "0.86.3"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.2",
+    "typescript": "~6.0.3"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "private": true
+}
